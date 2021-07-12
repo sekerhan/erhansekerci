@@ -4,8 +4,7 @@
          self.Ad=“Erhan”
          self.Soyad=“Şekerci”
 
-kimlik = ad + soyad
-
+kimlik = self.ad + self.soyad
 
 for i in range (10):
 

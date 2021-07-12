@@ -5,8 +5,8 @@
  "refreshtokenexpires_in":7776000
 }
 
-Class   “Kimlik”: 
-    def_init_(self,Ad,Soyad);
-      
-         self.Ad=“Erhan”
-         self.Soyad=“Sekerci”
+ {
+         “Kimlik”: "kimlik"
+         “Ad”: “Erhan”,
+         “Soyad”: “ŞEKERCİ”
+  }
